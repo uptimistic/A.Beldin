@@ -1,4 +1,4 @@
-```python
+``python
 
 # This python script is programmed to execute the following algorithm
 #(subject to modification)
@@ -161,4 +161,4 @@ prettyprint(finalOutput)
 #
 #     if eachCount == 1:
 
-```
+``
